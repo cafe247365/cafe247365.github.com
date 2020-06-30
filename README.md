@@ -1,2 +1,2 @@
-# cafe247365.github.com
+# cafe247365.github.io
 DAYLOG
