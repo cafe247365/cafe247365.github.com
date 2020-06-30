@@ -96,7 +96,7 @@ author:
   name             : "LEE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "DAY"
-  location         : ""
+  #location         : "Incheon"
   email            : "cafe247365@gmail.com"
   links:
     - label: "Email"
